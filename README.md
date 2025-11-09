@@ -29,8 +29,8 @@ It does not represent real-world business data.
 2. Interact with the visuals and filters to explore the dashboard design.
 3. You can also view a preview of the dashboard below:
 
-   ![Sales Dashboard Preview Dark](screenshots/DarkMode.png)
-   ![Sales Dashboard Preview Light](screenshots/LightMode.png)
+   ![Sales Dashboard Preview Dark](Projeto10802/screenshots/DarkMode.png)
+   ![Sales Dashboard Preview Light](Projeto10802/screenshots/LightMode.png)
 
 ---
 
