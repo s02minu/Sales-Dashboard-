@@ -25,7 +25,7 @@ The dataset is synthetic and was provided for educational purposes.
 It does not represent real-world business data.
 
 ## 🧾 How to View
-1. Open the Power BI file (`Vendas10802Israel.pbix`) included in the repository.  
+1. Open the Power BI file [Vendas10802Israel.pbix](Projeto10802/Vendas10802Israel.pbix) included in the repository.  
 2. Interact with the visuals and filters to explore the dashboard design.
 3. You can also view a preview of the dashboard below:
 
